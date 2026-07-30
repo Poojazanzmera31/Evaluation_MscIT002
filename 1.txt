@@ -1,0 +1,14 @@
+Hii.. I'm Pooja Zanzmera.
+Currently study MSc IT in Uka Tarsadiya University, Bardoli, Surat.
+
+SwiftSocialApp: Social Media Application December 2025
+Developed a native iOS social media application using SwiftUI that enables users to register,
+log in, create posts with text and images, and manage their personal profiles through a clean
+and intuitive interface. Implemented a scalable MVVM architecture with dedicated models,
+view models, and reusable SwiftUI views to ensure maintainable and modular code.
+Integrated local JSON-based data persistence using FileManager for secure storage of user
+accounts, posts, and login sessions. Utilized Combine for reactive state management and
+UIKit Image Picker for seamless image selection, delivering a smooth and responsive user
+experience.
+Technologies : Swift, SwiftUI, MVVM Architecture, Combine, UIKit (Image Picker), JSON,
+FileManager, Xcode

@@ -1,0 +1,6 @@
+URL Phishing Classification June-2026
+Developed a machine learning-based application to identify malicious and phishing URLs. The
+system extracts various URL features and uses a trained classification model to determine
+whether a website is legitimate or suspicious. The application helps users avoid fraudulent
+websites and improves cybersecurity awareness.
+Technologies : Python, Scikit-learn, Pandas, NumPy, Machine Learnings
